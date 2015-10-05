@@ -1,0 +1,11 @@
+<Ui>
+<Button name="LootNeedScrollButtonTemplate" virtual="true">
+<Size x="85" y="20"/>
+<Layers>
+<Layer level="ARTWORK">
+<FontString inherits="GameFontHighlight" justifyH="LEFT" parentKey="text" setAllPoints="true" text="Hallo">
+</FontString>
+</Layer>
+</Layers>
+</Button>
+</Ui>
