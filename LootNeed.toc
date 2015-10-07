@@ -1,10 +1,11 @@
 ## Interface: 60200
-## Title: Dady's LootNeed
+## Title: LootNeed
 ## Notes: /lootneed and /lootneed collect
-## Author: Dadybang
+## Author: Dadybang, DerHase
 ## Version: 0.1
 
 ## SavedVariablesPerCharacter: LootNeed_DB
 
 LootNeedTemplates.xml
 LootNeed.lua
+looting.lua
