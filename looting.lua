@@ -13,4 +13,4 @@ ns.eventFrame = CreateFrame("Frame", addon .. "EventFrame", UIParent)
 -- Registrieren eines Events:
 ns.eventFrame:RegisterEvent("PLAYER_STARTED_MOVING")
 -- Füttern der Funktion, wenn das Event passiert:
-ns.eventFrame:OnScript("OnEvent", eventFrameEvent)
+ns.eventFrame:SetScript("OnEvent", eventFrameEvent)
